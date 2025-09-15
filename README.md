@@ -11,5 +11,17 @@ In this module, we created a 3d room with interactive shapes that has a floating
 At this action we measure many parameter such like distance, velocity, path trajectory, fingers and hand angles. 
 The distance is determined based on the level, level 1 about 39 cm , level 2  about 50 cm, and level 3 about 100 cm.
 At the end of each level, we generate a report for the doctor so he can see the improvement of the patient, his performance log , and all measured parameters.
+<p align=center>
+<img width="303" height="174" alt="image" src="https://github.com/user-attachments/assets/7e598323-c9c7-4649-9eea-7a199168fe9d" hspace="50" /> <img width="328" height="164" alt="image" src="https://github.com/user-attachments/assets/cd06460c-d5ef-43c7-a236-06b381756492" /> <br></br> <img width="381" height="158"  alt="image" src="https://github.com/user-attachments/assets/ea92427f-4a54-4cad-bc17-25dd279f3385"  hspace="50"  /> <img width="400" height="158" alt="image" src="https://github.com/user-attachments/assets/3a31eeb9-23a6-48e9-b80d-6252b8fe585e" />
+ </p>
+# Module 2: Range of motion game Training & Assessment :
+In this module we added to our environmenr a large bookshelf and the patient is required to get a specific book that illuminates a light from the spcific shelf.
+The shelf height from the ground is determined based on the level.
+Aim of that is to help patient move their arms up, which helps in calculating the range of motion of shoulder movement.
+After finishing the game we celebrate the patient with butterfly confetti and give a report for the doctor about the overall performance.
+<p align=center>
+<img width="421" height="327" alt="image" src="https://github.com/user-attachments/assets/de73db02-9e4e-4203-9d23-e2528674ed36" hspace=50 />
+<img width="254" height="335" alt="image" src="https://github.com/user-attachments/assets/ffa0b48f-d946-4f7d-9eed-56853cf8a693" />
 <br></br>
-<img width="303" height="174" alt="image" src="https://github.com/user-attachments/assets/7e598323-c9c7-4649-9eea-7a199168fe9d" />
+<img width="555" height="348" alt="image" src="https://github.com/user-attachments/assets/5b525ae7-9eaa-4512-9e68-85e9b1021d2e" hspace=50/> <img width="350" height="291" alt="image" src="https://github.com/user-attachments/assets/2975416f-31db-4b3a-b621-a37968cdc152" />
+</p>
