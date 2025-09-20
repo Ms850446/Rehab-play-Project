@@ -14,6 +14,7 @@ At the end of each level, we generate a report for the doctor so he can see the 
 <p align=center>
 <img width="303" height="174" alt="image" src="https://github.com/user-attachments/assets/7e598323-c9c7-4649-9eea-7a199168fe9d" hspace="50" /> <img width="328" height="164" alt="image" src="https://github.com/user-attachments/assets/cd06460c-d5ef-43c7-a236-06b381756492" /> <br></br> <img width="381" height="158"  alt="image" src="https://github.com/user-attachments/assets/ea92427f-4a54-4cad-bc17-25dd279f3385"  hspace="50"  /> <img width="400" height="158" alt="image" src="https://github.com/user-attachments/assets/3a31eeb9-23a6-48e9-b80d-6252b8fe585e" />
  </p>
+ 
 # Module 2: Range of motion game Training & Assessment :
 In this module we added to our environmenr a large bookshelf and the patient is required to get a specific book that illuminates a light from the spcific shelf.
 The shelf height from the ground is determined based on the level.
@@ -25,3 +26,12 @@ After finishing the game we celebrate the patient with butterfly confetti and gi
 <br></br>
 <img width="555" height="348" alt="image" src="https://github.com/user-attachments/assets/5b525ae7-9eaa-4512-9e68-85e9b1021d2e" hspace=50/> <img width="350" height="291" alt="image" src="https://github.com/user-attachments/assets/2975416f-31db-4b3a-b621-a37968cdc152" />
 </p>
+
+# Module 3: Reaction time game Training & Assessment : 
+Human reaction time is a critical parameter that can tell us a lot of information about brain health and body too.
+As our main project is for rehabilitation then it would be an impoertant factor.
+In the assessment mode there's only one lamp infront of you and you are required to hit it as fast as possible when it changes its color.
+Assessment mode helps us in determining the training level that we would start from or even he wouln't need to have training.
+In training mode we created a specific are on the wall of the room and in this region there's a lamp that suddenly appears infront of the patient.
+The patient is required to hit this lamp when he see it to increase his score.
+There's many modes for the game like "Fixed delay", "Speed up", and "No delay" that patient can choose between them based on doctor's referal.
