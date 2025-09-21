@@ -32,6 +32,7 @@ Human reaction time is a critical parameter that can tell us a lot of informatio
 As our main project is for rehabilitation then it would be an impoertant factor.
 In the assessment mode there's only one lamp infront of you and you are required to hit it as fast as possible when it changes its color.
 Assessment mode helps us in determining the training level that we would start from or even he wouln't need to have training.
-In training mode we created a specific are on the wall of the room and in this region there's a lamp that suddenly appears infront of the patient.
+In training mode we created a specific area on the wall of the room and in this region there's a lamp that suddenly appears infront of the patient.
 The patient is required to hit this lamp when he see it to increase his score.
 There's many modes for the game like "Fixed delay", "Speed up", and "No delay" that patient can choose between them based on doctor's referal.
+
