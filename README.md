@@ -16,10 +16,14 @@ At the end of each level, we generate a report for the doctor so he can see the 
  </p>
  
 # Module 2: Range of motion game Training & Assessment :
-In this module we added to our environmenr a large bookshelf and the patient is required to get a specific book that illuminates a light from the spcific shelf.
-The shelf height from the ground is determined based on the level.
-Aim of that is to help patient move their arms up, which helps in calculating the range of motion of shoulder movement.
-After finishing the game we celebrate the patient with butterfly confetti and give a report for the doctor about the overall performance.
+A bookshelf becomes more than furniture — it becomes a stage for rebuilding motion and confidence.
+Building on velocity training, this module focuses on shoulder mobility.
+We added a large bookshelf in the room, where a glowing book appears on the shelf.
+To grab it, they must reach upward, transforming a difficult rehabilitation task into a simple, playful action.
+**Shelf height adjusts with each level, ensuring progress without overwhelming the patient.**
+**Each reach actively measures and expands the range of motion.**
+**Success is celebrated with butterfly confetti, keeping motivation high.**
+**Doctors receive a detailed performance report to track improvements and plan the next steps.**
 <p align=center>
 <img width="421" height="327" alt="image" src="https://github.com/user-attachments/assets/de73db02-9e4e-4203-9d23-e2528674ed36" hspace=50 />
 <img width="254" height="335" alt="image" src="https://github.com/user-attachments/assets/ffa0b48f-d946-4f7d-9eed-56853cf8a693" />
@@ -28,11 +32,22 @@ After finishing the game we celebrate the patient with butterfly confetti and gi
 </p>
 
 # Module 3: Reaction time game Training & Assessment : 
-Human reaction time is a critical parameter that can tell us a lot of information about brain health and body too.
-As our main project is for rehabilitation then it would be an impoertant factor.
-In the assessment mode there's only one lamp infront of you and you are required to hit it as fast as possible when it changes its color.
-Assessment mode helps us in determining the training level that we would start from or even he wouln't need to have training.
-In training mode we created a specific area on the wall of the room and in this region there's a lamp that suddenly appears infront of the patient.
-The patient is required to hit this lamp when he see it to increase his score.
-There's many modes for the game like "Fixed delay", "Speed up", and "No delay" that patient can choose between them based on doctor's referal.
+Every millisecond counts — and in rehabilitation, those milliseconds reveal the path to recovery.
+
+Human reaction time is more than speed, it’s a window into brain health and physical performance.
+That makes it a vital factor in rehabilitation, where the mind and body must work together to recover.
+
+# How It Works : 
+**Assessment Mode:**
+A single lamp stands in front of the patient. 
+When its color changes, they must strike it as quickly as possible. 
+This baseline test helps determine the right training level — or whether training is even needed.
+**Training Mode:**
+A lamp suddenly appears within a marked area on the wall.
+The patient must react instantly and hit it, improving reflexes while scoring points.
+**Game Modes:** Patients can train under different styles depending on their doctor’s referral:
+**Fixed delay**, **Speed up**, **No delay**.
+**Why It Matters**
+By blending quick decision-making with physical response, this module strengthens both neurological processing and motor coordination. 
+For patients, it’s a challenge that feels exciting. For doctors, it’s a reliable measure of brain-body recovery.
 
