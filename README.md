@@ -24,12 +24,12 @@ To grab it, they must reach upward, transforming a difficult rehabilitation task
 **Each reach actively measures and expands the range of motion.**
 **Success is celebrated with butterfly confetti, keeping motivation high.**
 **Doctors receive a detailed performance report to track improvements and plan the next steps.**
-<!-- <p align=center>
-<img width="421" height="327" alt="image" src="https://github.com/user-attachments/assets/de73db02-9e4e-4203-9d23-e2528674ed36" hspace=50 />
-<img width="254" height="335" alt="image" src="https://github.com/user-attachments/assets/ffa0b48f-d946-4f7d-9eed-56853cf8a693" />
+<p align=center>
+<!-- <img width="421" height="327" alt="image" src="https://github.com/user-attachments/assets/de73db02-9e4e-4203-9d23-e2528674ed36" hspace=50 /> -->
+<!-- <img width="254" height="335" alt="image" src="https://github.com/user-attachments/assets/ffa0b48f-d946-4f7d-9eed-56853cf8a693" /> -->
 <br></br>
 <img width="555" height="348" alt="image" src="https://github.com/user-attachments/assets/5b525ae7-9eaa-4512-9e68-85e9b1021d2e" hspace=50/> <img width="350" height="291" alt="image" src="https://github.com/user-attachments/assets/2975416f-31db-4b3a-b621-a37968cdc152" />
-</p> -->
+</p>
 
 # Module 3: Reaction time game Training & Assessment : 
 Every millisecond counts — and in rehabilitation, those milliseconds reveal the path to recovery.
